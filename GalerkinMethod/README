@@ -1,0 +1,6 @@
+In order to run this program simply type the following into the terminal:
+
+g++ ./main.cpp ./gal2ptBVP.cpp ./matrix.cpp ./utility.cpp 
+./a.out
+
+and then the plots will appear through x11 terminal and simple press enter to loop through the plots.
