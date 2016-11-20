@@ -1,0 +1,3 @@
+Attached are the files for the adams method solver. The plots are inside the plots folder.
+
+The step function seems to be working correctly but the adaptive step method is not. I commented out an advance method with a fixed step amount which gives exact values for y=x^t t<= 3.

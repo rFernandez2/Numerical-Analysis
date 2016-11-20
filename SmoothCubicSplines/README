@@ -1,0 +1,5 @@
+In order to run this code simply do the following
+
+g++ main.cpp hermiteCubic.cpp matrix.cpp utility.cpp
+./a.out
+open ./plots.eps

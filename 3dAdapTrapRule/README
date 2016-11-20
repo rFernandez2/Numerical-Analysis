@@ -1,0 +1,9 @@
+In order to run program:
+
+g++ ./main.cpp
+./a.out
+open ./plots.eps
+
+The approximate values will be printed to the terminal and the plots will all be in the eps file.
+
+It is interesting to note that the functions approximated exactly right are those where i,j <= 1 while all the other functions that were of the non-linear nature required more rectangles as the function's derivative increased in order to properly approximate it.
