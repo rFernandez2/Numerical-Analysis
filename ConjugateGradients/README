@@ -1,0 +1,6 @@
+In order to run this program simply input following commands:
+
+g++ ./main.cpp ./conjugateGrad.cpp ./matrix.cpp ./utility.cpp
+open plots.eps
+
+and the plot of the second test case will be in a .pdf-viewable file.
